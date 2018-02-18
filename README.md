@@ -2,9 +2,7 @@
 
 Simple Spring Boot Api with MongoDB
 
-## after install mongo
-
-Add default path
+### Add MongoDB's default data directory path
 
 ```bash 
 $ md \data\db
