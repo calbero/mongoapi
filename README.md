@@ -7,4 +7,8 @@ Simple Spring Boot Api with MongoDB
 ```bash 
 $ md \data\db
 ```
+### Start mongo server
 
+```bash
+$ mongod
+```
